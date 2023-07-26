@@ -273,10 +273,28 @@ blockquote {
   }
 }
 
+p.aboutThing {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.myImage {
+  // display: block;
+  // margin-left: auto;
+  // margin-right: auto;
+  // width: 100%;
+  // height:100;
+  // color: #d2c7c7;
+  // border: 4px solid #d2c7c7;
+  object-fit: cover;
+
+}
 // Wrapper
 .wrapper {
-  max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-  max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  // max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  // max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
   position: relative;
   margin-right: auto;
   margin-left: auto;

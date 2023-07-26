@@ -1,0 +1,101 @@
+---
+title: Projects
+permalink: /projects/
+layout: page
+excerpt: All projects.
+comments: false
+---
+
+
+<section class="segment">
+    <div class="container">
+      <div class="project-preview">
+        {% assign projects = site.projects %}
+      {%- for project in projects reversed -%}
+      <div class="card anchored large">
+                {% assign articleLink = project.article | strip_newlines %}
+                    <img class="myImage" src="{{ project.image }}" height="200" width="100%"   alt="{{ project.title | escape }}" />
+              <div>
+                <time>{{project.date | date: "%b %d, %Y"}}</time>
+                
+                {% if articleLink != "" %}
+                <a
+                  class="card-header"
+                  href="{{ project.url }}"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                {{ project.title | escape }}
+                </a>
+                {% endif %}
+                {% if articleLink == "" %}
+                <a class="card-header" >
+                {{ project.title | escape }}
+                </a>
+                {% endif %} 
+
+                <p>{{ project.description | escape }}</p>
+              </div>
+              
+              <div class="links anchored">
+                  {% if articleLink != "" %}
+                  <a
+                    class="button small flex"
+                    target="_blank"
+                    href="{{ project.article }}"
+                    rel="noreferrer">
+                    Article </a>
+                {% endif %}
+                {% assign playstoreLink = project.playstore | strip_newlines %}
+                {% if playstoreLink != "" %}
+                  <a
+                    class="button small flex"
+                    target="_blank"
+                    rel="noreferrer"
+                    href="{{ project.playstore }}"
+                  >
+                    Playstore 
+                  </a>
+                  {% endif %}
+                  {% assign sourceLink = project.source | strip_newlines %}
+                  {% if sourceLink != "" %}
+                    <a
+                    class="button small flex"
+                    target="_blank"
+                    href="{{ project.source }}"
+                    rel="noreferrer"
+                    >
+                    Source 
+                    </a>
+                {% endif %}
+                {% assign siteLink = project.site | strip_newlines %}
+                {% if siteLink != "" %}
+                    <a
+                    class="button small flex"
+                    target="_blank"
+                    href="{{ project.site }}"
+                    rel="noreferrer"
+                    >
+                    Website
+                    </a>
+                {% endif %}
+
+                {% assign buildLink = project.build | strip_newlines %}
+                {% if buildLink != "" %}
+                    <a
+                    class="button small flex"
+                    target="_blank"
+                    href="{{ project.build }}"
+                    rel="noreferrer"
+                    >
+                    Releases
+                    </a>
+                {% endif %}
+              </div>
+              
+            </div>
+        {%- endfor -%}
+      </div>
+    </div>
+  </section>
+  
