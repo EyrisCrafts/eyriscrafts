@@ -1,0 +1,52 @@
+I"�<!-- <img src="/apa-itu-shell/shell_evolution.png" alt="Dawn News"> -->
+<!-- <img src="/projects/advanced-news-app/logo.png" alt="Dawn News">
+
+
+<h3>Super news app with advanced features</h3> -->
+
+<p>A simple multi platform emoji/memes/gifs finder</p>
+
+<h1 id="-screenshots">💻 Screenshots</h1>
+
+<!-- ![alt text](/projects/retro-typer/retro_typer.gif) -->
+
+<p><img src="/projects/retro-typer/retro_typer.gif" alt="Example" style="width:500px" /></p>
+
+<p><img src="/projects/retro-typer/emojis.png" alt="Example" style="width:500px" /></p>
+
+<p><img src="/projects/retro-typer/ascii.png" alt="Example" style="width:500px" /></p>
+
+<h1 id="-installation-for-macos">🔥 Installation for macos</h1>
+
+<ol>
+  <li>Download retro_typer.dmg from <a href="https://github.com/K-Rafiki/retro_emojis/releases/tag/v4.0">Releases</a></li>
+  <li>Double click and install the .dmg file</li>
+</ol>
+
+<h4 id="-setup-shortcut-to-run-the-retro_typer">⏩ Setup Shortcut to run the retro_typer</h4>
+<ol>
+  <li>Open the Shortcuts app in macos</li>
+  <li>Click the plus button at the top right corner to add a new shortcut</li>
+  <li>click on the search bar at the top right corner and type “Open App” for the action. Drag open app to the main area.</li>
+  <li>Click on the app keyword and find retro_typer</li>
+  <li>To setup a keyboard shortcut, click the information icon at the top right corner of the shortcuts app.</li>
+  <li>Click “Add Keyboard Shortcut” and add your shortcut key combination, you can press shift + option + e</li>
+  <li>And you’re done ! Just press the shortcut anywhere.</li>
+</ol>
+
+<p><img src="/projects/retro-typer/screenshot.png" alt="Example" style="width:500px" /></p>
+
+<h1 id="-installation-for-windows">🔥 Installation for windows</h1>
+
+<ol>
+  <li>Download windows.zip from <a href="https://github.com/K-Rafiki/retro_emojis/releases/tag/v4.0">Releases</a></li>
+  <li>extract the zip file</li>
+</ol>
+
+<h4 id="-setup-shortcut-to-run-retro_typer">⏩ Setup Shortcut to run retro_typer</h4>
+
+<ol>
+  <li>Right click on the retro_typer shortcut and click ‘properties’</li>
+  <li>click on the ‘Shortcut Key’ and setup a key like Ctrl + Alt + 1</li>
+</ol>
+:ET
