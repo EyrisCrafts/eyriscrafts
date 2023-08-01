@@ -79,3 +79,9 @@ Your browser does not support the video tag.
 - Use arrow keys to choose the meme to use
 - Press number keys on keyboard to choose type 1 for ascii, 2 for gif etc
 - Press enter to choose. The meme/emoji has been copied to clipboard
+
+# Known Issues
+
+### Shortcut on macos not working when multiple languages setup
+
+This is a known issue. If you have resolved it, you can reach out to me or create a PR with help and I can merge !
