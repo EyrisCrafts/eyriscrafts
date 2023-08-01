@@ -67,7 +67,7 @@ Your browser does not support the video tag.
 2. click on the 'Shortcut Key' and setup a key like Ctrl + Alt + 1
 
 
-# How to use
+# 🛠️ How to use
 
 
 <video width="500" height="300" controls>
