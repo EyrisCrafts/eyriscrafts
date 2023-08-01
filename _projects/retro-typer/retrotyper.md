@@ -65,3 +65,17 @@ Your browser does not support the video tag.
 
 1. Right click on the retro_typer shortcut and click 'properties'
 2. click on the 'Shortcut Key' and setup a key like Ctrl + Alt + 1
+
+
+# How to use
+
+
+<video width="500" height="300" controls>
+  <source src="/projects/retro-typer/use_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+- Use arrow keys to choose the meme to use
+- Press number keys on keyboard to choose type 1 for ascii, 2 for gif etc
+- Press enter to choose. The meme/emoji has been copied to clipboard
