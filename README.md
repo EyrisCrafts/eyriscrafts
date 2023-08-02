@@ -5,3 +5,8 @@ This is a simple personal website with projects and blogs. Feel free to use this
 This is hosted on free cloudflare static page.
 
 [Template used for this website](https://github.com/piharpi/jekyll-klise)
+
+### To Run
+```
+bundle exec jekyll serve
+```

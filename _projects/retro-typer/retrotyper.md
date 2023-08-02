@@ -13,17 +13,10 @@ article: "https://eyriscrafts.com/projects/retro-typer/retrotyper"
 ---
 
 
-<!-- <img src="/apa-itu-shell/shell_evolution.png" alt="Dawn News"> -->
-<!-- <img src="/projects/advanced-news-app/logo.png" alt="Dawn News">
-
-
-<h3>Super news app with advanced features</h3> -->
-
 A simple multi platform emoji/memes/gifs finder
 
 # 💻 Screenshots
 
-<!-- ![alt text](/projects/retro-typer/retro_typer.gif) -->
 
 <img src="/projects/retro-typer/retro_typer.gif" alt="Example" style="width:500px">
 
@@ -33,7 +26,6 @@ A simple multi platform emoji/memes/gifs finder
 
 # 🔥 Installation for macos
 
-<!-- <img src="/projects/retro-typer/macos_setup.mp4" alt="Example" style="width:500px"> -->
 <video width="500" height="300" controls>
   <source src="/projects/retro-typer/macos_setup.mp4" type="video/mp4">
 Your browser does not support the video tag.

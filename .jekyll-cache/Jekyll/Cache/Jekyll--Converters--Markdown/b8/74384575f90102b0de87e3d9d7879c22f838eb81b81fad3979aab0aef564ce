@@ -1,14 +1,6 @@
-I"j<!-- <img src="/apa-itu-shell/shell_evolution.png" alt="Dawn News"> -->
-<!-- <img src="/projects/advanced-news-app/logo.png" alt="Dawn News">
-
-
-<h3>Super news app with advanced features</h3> -->
-
-<p>A simple multi platform emoji/memes/gifs finder</p>
+I"7<p>A simple multi platform emoji/memes/gifs finder</p>
 
 <h1 id="-screenshots">💻 Screenshots</h1>
-
-<!-- ![alt text](/projects/retro-typer/retro_typer.gif) -->
 
 <p><img src="/projects/retro-typer/retro_typer.gif" alt="Example" style="width:500px" /></p>
 
@@ -18,7 +10,6 @@
 
 <h1 id="-installation-for-macos">🔥 Installation for macos</h1>
 
-<!-- <img src="/projects/retro-typer/macos_setup.mp4" alt="Example" style="width:500px"> -->
 <video width="500" height="300" controls="">
   <source src="/projects/retro-typer/macos_setup.mp4" type="video/mp4" />
 Your browser does not support the video tag.
@@ -68,4 +59,10 @@ Your browser does not support the video tag.
   <li>Press number keys on keyboard to choose type 1 for ascii, 2 for gif etc</li>
   <li>Press enter to choose. The meme/emoji has been copied to clipboard</li>
 </ul>
+
+<h1 id="known-issues">Known Issues</h1>
+
+<h3 id="shortcut-on-macos-not-working-when-multiple-languages-setup">Shortcut on macos not working when multiple languages setup</h3>
+
+<p>This is a known issue. If you have resolved it, you can reach out to me or create a PR with help and I can merge !</p>
 :ET

@@ -15,4 +15,4 @@ article: ""
 <img src="/projects/advanced-news-app/logo.png" alt="Dawn News">
 
 
-<h3>Super news app with advanced features</h3>
+<h3>chessformer</h3>
