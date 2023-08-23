@@ -45,4 +45,11 @@ Use Ublock Origin for the best adblock experience
 If you have never used temper monkey, you have missed out on a whole new way of surfing the internet. 
 You can download scripts at <a href="https://greasyfork.org/en">GreasyFork</a>
 
+#### 6. <a href="https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb">Browser extension - Reddit Enhancement</a>
+
+<img src="/chrome-extensions/RES.png" alt="RES">
+
+Enhance the reddit experience
+
+
 
