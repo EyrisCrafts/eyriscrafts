@@ -1,0 +1,35 @@
+I"8<p>This is just how my macos is setup, hope find something useful for yourself :)</p>
+
+<h4 id="1-stats">1. <a href="https://github.com/exelban/stats">Stats</a></h4>
+
+<p><img src="/chrome-extensions/stats.png" alt="Stats" /></p>
+
+<p>Open source application that shows Network usage / CPU usage / Fan control / Temperature</p>
+
+<h4 id="2-keepingyouawake">2. <a href="https://github.com/newmarcel/KeepingYouAwake">KeepingYouAwake</a></h4>
+
+<p><img src="/chrome-extensions/KeepingYouAwake.jpg" alt="KeepingYouAwake" /></p>
+
+<p>Ever wanted to stop mac from going to sleep? Maybe when you want to download something. Then this is quite useful.</p>
+
+<h4 id="3-smooth-backspace">3. Smooth backspace</h4>
+
+<p><img src="/chrome-extensions/backspace.png" alt="Backspace" /></p>
+
+<p>Macos by default has a quite annoyingly laggy backspacing. Change your keyboard settings to this and get a better experience deleting text.</p>
+
+<h4 id="4-browser-extension---ublock-origin">4. <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Browser extension - ublock origin</a></h4>
+
+<p><img src="/chrome-extensions/ublock.png" alt="UblockOrigin" /></p>
+
+<p>Ever felt that your adblocker misses ads? A lot of the ad blockers have made agreements with ad companies to let their ads through in exchange for money. 
+Use Ublock Origin for the best adblock experience</p>
+
+<h4 id="5-browser-extension---tamper-monkey">5. <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Browser extension - Tamper Monkey</a></h4>
+
+<p><img src="/chrome-extensions/tamperMonkey.png" alt="TamperMonkey" /></p>
+
+<p>If you have never used temper monkey, you have missed out on a whole new way of surfing the internet. 
+You can download scripts at <a href="https://greasyfork.org/en">GreasyFork</a></p>
+
+:ET
