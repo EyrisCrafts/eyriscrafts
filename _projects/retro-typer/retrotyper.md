@@ -7,8 +7,8 @@ description: A multi platform emoji/meme finder !
 image: "/projects/retro-typer/icon.png"
 playstore: ""
 site: ""
-build: "https://github.com/K-Rafiki/retro_emojis/releases"
-source: "https://github.com/K-Rafiki/retro_emojis"
+build: "https://github.com/EyrisCrafts/retro_emojis/releases"
+source: "https://github.com/EyrisCrafts/retro_emojis"
 article: "https://eyriscrafts.com/projects/retro-typer/retrotyper"
 ---
 
@@ -31,7 +31,7 @@ A simple multi platform emoji/memes/gifs finder
 Your browser does not support the video tag.
 </video>
 
-1. Download retro_typer.dmg from [Releases](https://github.com/K-Rafiki/retro_emojis/releases/tag/v4.0)
+1. Download retro_typer.dmg from [Releases](https://github.com/EyrisCrafts/retro_emojis/releases/tag/v4.0)
 2. Double click and install the .dmg file
 
 
@@ -50,7 +50,7 @@ Your browser does not support the video tag.
 
 # 🔥 Installation for windows
 
-1. Download windows.zip from [Releases](https://github.com/K-Rafiki/retro_emojis/releases/tag/v4.0)
+1. Download windows.zip from [Releases](https://github.com/EyrisCrafts/retro_emojis/releases/tag/v4.0)
 2. extract the zip file
 
 #### ⏩ Setup Shortcut to run retro_typer (WINDOWS)

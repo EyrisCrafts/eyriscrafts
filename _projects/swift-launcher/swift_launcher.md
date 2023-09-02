@@ -8,7 +8,7 @@ image: "/projects/swift-launcher/logo.png"
 playstore: "https://play.google.com/store/apps/details?id=com.eyriscrafts.swiftlauncher"
 site: ""
 build: ""
-source: "https://github.com/K-Rafiki/swiftlauncher"
+source: "https://github.com/EyrisCrafts/swiftlauncher"
 article: ""
 ---
 

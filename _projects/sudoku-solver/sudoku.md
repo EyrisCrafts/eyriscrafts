@@ -8,7 +8,7 @@ image: "/projects/sudoku-solver/icon.png"
 playstore: ""
 site: ""
 build: ""
-source: "https://github.com/K-Rafiki/pythonSudokuSolver"
+source: "https://github.com/EyrisCrafts/pythonSudokuSolver"
 article: ""
 ---
 

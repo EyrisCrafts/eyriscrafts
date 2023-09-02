@@ -6,16 +6,16 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/K-Rafiki # site repo [optional]
+repo: https://github.com/EyrisCrafts # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Waleed Nizamani # author name
   bio: >- # tell to the world
-    Software engineer by trade.<br>Student of science by philosophy
+    Software engineer and a student of science
   username: EyrisCrafts # general username
-  github: K-Rafiki # github username
+  github: EyrisCrafts # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: waleed.nizamaniwn@gmail.com # email address

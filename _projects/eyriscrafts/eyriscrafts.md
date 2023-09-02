@@ -7,7 +7,7 @@ description: The source code for this site
 image: "/projects/eyriscrafts/cabbage.png"
 playstore: ""
 site: "https://eyriscrafts.com"
-source: "https://github.com/K-Rafiki/eyriscrafts"
+source: "https://github.com/EyrisCrafts/eyriscrafts"
 article: ""
 ---
 

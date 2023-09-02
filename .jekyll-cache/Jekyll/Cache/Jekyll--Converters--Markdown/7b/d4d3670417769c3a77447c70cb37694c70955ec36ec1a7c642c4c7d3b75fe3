@@ -1,0 +1,32 @@
+I"�<p><img src="/projects/chesscursion/logo.png" width="150px" alt="Chess" /></p>
+
+<p>A chess based puzzle game</p>
+
+<h1 id="-screenshots">💻 Screenshots</h1>
+
+<video width="500" height="300" controls="">
+  <source src="/projects/chesscursion/sr1.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+
+<h3 id="you-can-either-play-normal-levels-or-community-created">You can either play normal levels or community created</h3>
+<p><img src="/projects/chesscursion/ss1.jpg" width="300px" alt="Chesscursion" /></p>
+
+<h3 id="a-large-variety-of-levels">A large variety of levels</h3>
+<p><img src="/projects/chesscursion/ss2.jpg" width="300px" alt="Chesscursion" /></p>
+
+<h3 id="complicated-levels">Complicated levels</h3>
+<p><img src="/projects/chesscursion/ss3.jpg" width="300px" alt="Chesscursion" /></p>
+
+<h3 id="create-your-own-levels-and-share-">Create your own levels and share !</h3>
+<p><img src="/projects/chesscursion/ss4.jpg" width="300px" alt="Chesscursion" /></p>
+
+<h1 id="-contributions">🔥 Contributions</h1>
+
+<p>PRs are always welcome :)</p>
+
+<h1 id="-disclaimer">👾 Disclaimer</h1>
+
+<p>Chesscursion is inspired from Chessformer. I’ve added upon the concept with a few of my changes : )</p>
+
+:ET

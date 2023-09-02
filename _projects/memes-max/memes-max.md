@@ -8,7 +8,7 @@ image: "/projects/memes-max/memeLogo.png"
 playstore: "https://play.google.com/store/apps/details?id=com.eyriscrafts.memesmax"
 site: ""
 build: ""
-source: "https://github.com/K-Rafiki/memes_max"
+source: "https://github.com/EyrisCrafts/memes_max"
 article: "http://eyriscrafts.com/projects/memes-max/memes-max"
 ---
 
