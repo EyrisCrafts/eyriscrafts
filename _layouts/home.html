@@ -36,9 +36,15 @@ home: true
                 {% assign articleLink = project.article | strip_newlines %}
                 
                 {% if articleLink != "" %}
-                <a href="{{project.url}}" target="_blank">
+                <a href="{{project.url}}" target="_blank" style="overflow: hidden">
                   {% endif %}
-                  <img class="myImage" src="{{ project.image }}" height="200" width="100%"   alt="{{ project.title | escape }}" />
+                  <!-- <div style="background-image: url('https://codetheweb.blog/assets/img/posts/basic-types-of-html-tags/cover.jpg'); height: 200px; width: 100%; position: relative; overflow: hidden;">
+                    <img src="{{project.image}}" alt="Small Image" style="background-color: white; position: absolute; bottom: -10px; left: 10px; width: 50px; height: 50px; border-radius: 25px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
+                  </div> -->
+                  <div style="background-image: url('{{ project.bg }}'); height: 200px; width: 100%; position: relative;">
+                    <img src="{{ project.image }}" alt="Small Image" style="position: absolute; bottom: 0; left: 10px; width: 50px; height: 50px; border-radius: 25px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); background-color: white;">
+                  </div>
+                  <!-- <img class="myImage" src="{{ project.image }}" height="200" width="100%"   alt="{{ project.title | escape }}" /> -->
                   {% if articleLink != "" %}
                   </a>
                 {% endif %}

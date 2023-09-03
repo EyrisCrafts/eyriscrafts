@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: []
 description: A feature rich android launcher in flutter
 image: "/projects/swift-launcher/logo.png"
+bg: "/projects/swift-launcher/bg.png"
 playstore: "https://play.google.com/store/apps/details?id=com.eyriscrafts.swiftlauncher"
 site: ""
 build: ""

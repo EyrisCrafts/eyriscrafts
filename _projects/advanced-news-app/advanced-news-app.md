@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: []
 description: Superior news app with advanced features
 image: "/projects/advanced-news-app/logo.png"
+bg: "/projects/advanced-news-app/bg.png"
 playstore: "https://play.google.com/store/apps/details?id=com.eyriscraft.dawn"
 source: ""
 article: "http://eyriscrafts.com/projects/advanced-news-app/advanced-news-app"

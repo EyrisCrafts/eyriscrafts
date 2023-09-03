@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: [Macos, Windows, Linux]
 description: A multi platform emoji/meme finder !
 image: "/projects/retro-typer/icon.png"
+bg: "/projects/retro-typer/bg.png"
 playstore: ""
 site: ""
 build: "https://github.com/EyrisCrafts/retro_emojis/releases"

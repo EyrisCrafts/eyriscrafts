@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: []
 description: A cool chess variant with puzzles
 image: "/projects/chesscursion/logo.png"
+bg: "/projects/chesscursion/bg.png"
 playstore: "https://play.google.com/store/apps/details?id=com.example.chessnomer"
 source: "https://github.com/EyrisCrafts/Chesscursion"
 article: "http://eyriscrafts.com/projects/chesscursion/chesscursion"

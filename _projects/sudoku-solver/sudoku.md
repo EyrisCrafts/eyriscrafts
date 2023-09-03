@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: [Python]
 description: A sudoku solver in python
 image: "/projects/sudoku-solver/icon.png"
+bg: "/projects/sudoku-solver/bg.png"
 playstore: ""
 site: ""
 build: ""

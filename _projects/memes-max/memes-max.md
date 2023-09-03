@@ -5,6 +5,7 @@ modified: 2020-02-02 16:49:47 +07:00
 tags: [Flutter]
 description: A feature rich memes app
 image: "/projects/memes-max/memeLogo.png"
+bg: "/projects/memes-max/bg.png"
 playstore: "https://play.google.com/store/apps/details?id=com.eyriscrafts.memesmax"
 site: ""
 build: ""
