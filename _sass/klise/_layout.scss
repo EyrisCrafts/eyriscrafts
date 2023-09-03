@@ -709,6 +709,11 @@ a.button {
   white-space: nowrap;
 }
 
+.button:hover {
+  color: #dd4eb2;
+
+}
+
 button.large,
 a.button.large {
   padding: 1rem 1.75rem;
@@ -748,13 +753,12 @@ a.button:hover {
 }
 
 
-
-
-// .project-preview {
-//   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-//   transition: 0.3s;
-//   width: 80%;
-// }
+.customCard:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: white;
+  cursor: pointer;
+}
 
 .card a.card-header,
 .card h2 {

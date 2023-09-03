@@ -2,7 +2,7 @@
 title: Chesscursion
 date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
-tags: []
+tags: [Flutter, Game, Chess]
 description: A cool chess variant with puzzles
 image: "/projects/chesscursion/logo.png"
 bg: "/projects/chesscursion/bg.png"

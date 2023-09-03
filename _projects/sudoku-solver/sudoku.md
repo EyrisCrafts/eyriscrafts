@@ -10,12 +10,13 @@ playstore: ""
 site: ""
 build: ""
 source: "https://github.com/EyrisCrafts/pythonSudokuSolver"
-article: ""
+article: "https://eyriscrafts.com/projects/sudoku-solver/sudoku"
 ---
 
 
-<!-- <img src="/apa-itu-shell/shell_evolution.png" alt="Dawn News"> -->
-<img src="/projects/advanced-news-app/logo.png" alt="Dawn News">
+A simple sudoku solver made in python
+
+# 💻 Screenshot
 
 
-<h3>Super news app with advanced features</h3>
+<img src="/projects/sudoku-solver/img1.png" alt="Example" style="width:500px">

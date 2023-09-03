@@ -2,7 +2,7 @@
 title: Dawn News
 date: 2023-03-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
-tags: []
+tags: [Flutter, Android app, News]
 description: Superior news app with advanced features
 image: "/projects/advanced-news-app/logo.png"
 bg: "/projects/advanced-news-app/bg.png"

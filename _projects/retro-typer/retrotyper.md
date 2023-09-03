@@ -2,7 +2,7 @@
 title: Retro Typer
 date: 2023-02-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
-tags: [Macos, Windows, Linux]
+tags: [Flutter, Macos, Windows, Linux, Utility]
 description: A multi platform emoji/meme finder !
 image: "/projects/retro-typer/icon.png"
 bg: "/projects/retro-typer/bg.png"

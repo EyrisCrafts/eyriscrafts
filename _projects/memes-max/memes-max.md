@@ -2,7 +2,7 @@
 title: Memax
 date: 2020-04-10 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
-tags: [Flutter]
+tags: [Flutter, Memes]
 description: A feature rich memes app
 image: "/projects/memes-max/memeLogo.png"
 bg: "/projects/memes-max/bg.png"
