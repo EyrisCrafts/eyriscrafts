@@ -53,6 +53,7 @@ home: true
                   href="{{ project.url }}"
                   target="_blank"
                   rel="noreferrer"
+                  onclick="event.stopPropagation();"
                 >
                 {{ project.title | escape }}
                 </a>
@@ -71,6 +72,7 @@ home: true
                   <a
                     class="button small flex"
                     target="_blank"
+                    onclick="event.stopPropagation();"
                     href="{{ project.article }}"
                     rel="noreferrer">
                     Article </a>
@@ -80,6 +82,7 @@ home: true
                   <a
                     class="button small flex"
                     target="_blank"
+                    onclick="event.stopPropagation();"
                     rel="noreferrer"
                     href="{{ project.playstore }}"
                   >
@@ -92,6 +95,7 @@ home: true
                     class="button small flex"
                     target="_blank"
                     href="{{ project.source }}"
+                    onclick="event.stopPropagation();"
                     rel="noreferrer"
                     >
                     Source 
@@ -103,6 +107,7 @@ home: true
                     class="button small flex"
                     target="_blank"
                     href="{{ project.site }}"
+                    onclick="event.stopPropagation();"
                     rel="noreferrer"
                     >
                     Website
@@ -115,6 +120,7 @@ home: true
                     class="button small flex"
                     target="_blank"
                     href="{{ project.build }}"
+                    onclick="event.stopPropagation();"
                     rel="noreferrer"
                     >
                     Releases
