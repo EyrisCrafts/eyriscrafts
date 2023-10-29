@@ -727,6 +727,11 @@ a.button.small {
   font-size: 0.9rem;
 }
 
+a.SmallButton {
+  z-index: 10;
+  position: relative;
+}
+
 a.button.highlighted {
   font-weight: 500;
   text-decoration: none;
