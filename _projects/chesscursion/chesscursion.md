@@ -6,7 +6,7 @@ tags: [Flutter, Game, Chess]
 description: A cool chess variant with puzzles
 image: "/projects/chesscursion/logo.png"
 bg: "/projects/chesscursion/bg.png"
-playstore: "https://play.google.com/store/apps/details?id=com.example.chessnomer"
+playstore: "https://play.google.com/store/apps/details?id=com.eyriscrafts.chesscursion"
 source: "https://github.com/EyrisCrafts/Chesscursion"
 article: "http://eyriscrafts.com/projects/chesscursion/chesscursion"
 ---
